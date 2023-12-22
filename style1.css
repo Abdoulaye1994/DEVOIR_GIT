@@ -1,0 +1,64 @@
+
+.menu_navigation {
+display: flex;
+padding-left: 250px;
+}
+
+.logo {
+    display: flex;
+    margin-right: 100px;
+    padding-left: 100px;
+    margin-right: 250px;
+}
+
+.menu-item {
+    margin-left: 40px;
+    padding-top: 10px;
+    display: inline-block;
+    min-width: 100px;
+    line-height: 20px;
+    text-decoration: none;
+    
+}
+
+ 
+.work {
+    color: #FFF;
+    font-family: Montserrat;
+     font-size: 48px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: normal; 
+}
+
+
+.blog {
+    background-color: #2D5298;
+    display: flex;
+    height: 422px;
+    padding: 49px 31px 49.181px 15px;
+    align-items: center;
+    gap: 45px; 
+    margin-bottom: 20px;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+}
+
+ span {
+    border-radius: 100px;
+    border-width: 50px;
+    background: #7A96FF; 
+}
+
+.lorem-services {
+    text-align: center;
+}
+
+.lorem-p {
+    width: 699px; 
+    text-align: center;
+}
+
